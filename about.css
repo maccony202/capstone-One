@@ -361,6 +361,11 @@ body {
     padding-top: 10px;
   }
 
+  .free-sub {
+    text-align: center;
+    padding: 20px;
+  }
+
   .img-post {
     display: flex;
     flex-direction: row;
