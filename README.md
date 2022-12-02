@@ -11,7 +11,7 @@
 
 # 📖 [Afrochella_Festival] <a name="about-project"></a>
 
-> This project is created to display African culture to the world 
+> This  is a website  aims to display African culture to the world 
 
 **[Afrochella_Experience]** is a...
 
