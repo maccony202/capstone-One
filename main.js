@@ -26,30 +26,37 @@ const myArray = [
 
   {
     speakerImg: 'src/assets/images/Togbe.jpg',
-    name: 'Otumfuo Osei Tutu II',
-    position: 'King of the Ashanti Kingdom',
-    bio: 'He ensured peace at the time of long standing cheftecy war at bawku the northen part of ghana',
+    name: 'Togbe Afede XIV',
+    position: 'Agbogbomefia of the Asogoli state',
+    bio: 'Executive Chairman of World Trade center, Ghana',
   },
 
   {
     speakerImg: 'src/assets/images/Dr-Ibrahim-Mohammed-Awal.jpeg',
-    name: 'Otumfuo Osei Tutu II',
-    position: 'King of the Ashanti Kingdom',
-    bio: 'He ensured peace at the time of long standing cheftecy war at bawku the northen part of ghana',
+    name: 'Dr Ibrahim Mohammed Awal',
+    position: 'Minister of Tourism, Ghana',
+    bio: 'He is formal minister of business development',
   },
 
   {
     speakerImg: 'src/assets/images/okraku.jpg',
-    name: 'Otumfuo Osei Tutu II',
-    position: 'King of the Ashanti Kingdom',
-    bio: 'He ensured peace at the time of long standing cheftecy war at bawku the northen part of ghana',
+    name: 'Mr Okraku Mante',
+    position: 'Deputy Minister of Tourism',
+    bio: 'Ghanian music producer and Politician',
   },
 
   {
     speakerImg: 'src/assets/images/sarkodie.jpg',
-    name: 'Otumfuo Osei Tutu II',
-    position: 'King of the Ashanti Kingdom',
-    bio: 'He ensured peace at the time of long standing cheftecy war at bawku the northen part of ghana',
+    name: 'Micheal Owusu Addo(SARKODIE)',
+    position: 'Ghanian Rapper',
+    bio: 'He is 2014 best International Art BET & 2021 Best International flow',
+  },
+
+  {
+    speakerImg: 'src/assets/images/Sadiq-Abdulai-Abu.jpg',
+    name: 'Sardiq Abdulai Abu',
+    position: 'CEO of 3Music Awards',
+    bio: 'He is an event promoter and a phylantropist',
   },
 ];
 
@@ -62,8 +69,8 @@ const displaySpeakers = ({
     <img src="${speakerImg}" alt="${name}">
     <div class="speaker-info">
         <h4 class="speaker-name">${name}</h4>
-        <em>${position}</em>
-        <hr>
+        <em class= "position">${position}</em>
+
         <p class="speaker-b">${bio}</p>
     </div>
     `;
