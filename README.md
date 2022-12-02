@@ -42,10 +42,11 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://maccony202.github.io/my-Portfolio/)
+- [Live Demo Link]( https://maccony202.github.io/capstone-One/)
 
 ## 🚀  Loom Video <a name="loom-video"></a>
 
+- [Live Demo Link](https://www.loom.com/share/eae91103082f426d91cb6103edb630b6)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
