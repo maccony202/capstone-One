@@ -366,7 +366,6 @@ body {
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 50px;
-    gap: 2%;
   }
 
   .img-post-fest {
