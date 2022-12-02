@@ -167,7 +167,7 @@ body {
 
 .cards {
   display: grid;
-  height: 100px;
+  height: 120px;
   grid-template-columns: repeat(3, 1fr);
   background-color: rgb(255, 255, 255, 0.1);
   margin: 16px;
