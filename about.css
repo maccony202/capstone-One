@@ -361,12 +361,16 @@ body {
     padding-top: 10px;
   }
 
+  .free-sub {
+    text-align: center;
+    padding: 20px;
+  }
+
   .img-post {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 50px;
-    gap: 2%;
   }
 
   .img-post-fest {
